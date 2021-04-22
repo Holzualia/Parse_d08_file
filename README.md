@@ -1,2 +1,2 @@
 # Parse_d08_file
-Parse .d08 File and extract needed data
+Parse .d08 File and extract needed data for chara shmoos
